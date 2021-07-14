@@ -21,3 +21,5 @@ Encourage your students to do the things above and let students have breaks.
 
 - Assign more work offline like building science projects.
 - It is better for your students' eyes to learn by completing documents than playing games.
+
+We are looking for more ideas [here](https://forms.gle/WDWsUsLcZX5QvjBGA)!
