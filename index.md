@@ -22,8 +22,8 @@ Encourage your students to do the things above and let students have breaks.
 - Assign more work offline like building science projects.
 - It is better for your students' eyes to learn by completing documents than playing games.
 
-[Take the quiz!](https://donaldli2020.github.io/Design-Thinking-summer-2021/screen-time/quiz.html)
+[Take the quiz!](https://donaldli2020.github.io/Design-Thinking-summer-2021/quiz.html)
 
 We are looking for more ideas [here](https://forms.gle/WDWsUsLcZX5QvjBGA)!
 
-[Source Code](https://raw.githubusercontent.com/donaldli2020/Design-Thinking-summer-2021/main/screen-time/index.md)
+[Source Code](https://raw.githubusercontent.com/donaldli2020/Design-Thinking-summer-2021/main/index.md)
